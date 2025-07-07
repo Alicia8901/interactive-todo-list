@@ -10,8 +10,6 @@ A simple and user-friendly web app to help you manage your daily tasks interacti
 - Tasks are saved in your browser’s localStorage for persistence 
 - Responsive design for desktop and mobile devices 
 
-## Getting Started
-
 ### Prerequisites
 
 All you need is a modern web browser (Chrome, Firefox, Edge, Safari).
@@ -26,7 +24,11 @@ All you need is a modern web browser (Chrome, Firefox, Edge, Safari).
 
 - HTML 
 - CSS 
-- JavaScript 
+- JavaScript
+- 
+## Live Demo
+
+https://alicia8901.github.io/interactive-todo-list/
 
 ## Future Improvements
 
