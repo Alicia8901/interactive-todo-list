@@ -25,7 +25,7 @@ All you need is a modern web browser (Chrome, Firefox, Edge, Safari).
 - HTML 
 - CSS 
 - JavaScript
-- 
+  
 ## Live Demo
 
 https://alicia8901.github.io/interactive-todo-list/
